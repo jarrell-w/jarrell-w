@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, CSS, and React!**
 
-- 📫 How to reach me **jarrellwebdev@gmail.com**
+- 📫 How to reach me **jarrellwdev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jarrellswitherspoon/](https://www.linkedin.com/in/jarrellswitherspoon/)
 
