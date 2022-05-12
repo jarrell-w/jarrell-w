@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **any projects!**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 Some of my projects are available at https://jarrellw.netlify.app/
 
-- 📝 I regularly write articles on [TBD](TBD)
+- 📝 I regularly write articles on [TBD]
 
 - 💬 Ask me about **Javascript, CSS, and React!**
 
