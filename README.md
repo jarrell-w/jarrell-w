@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jarrell!</h1>
+<h1 align="center">Hi 👋, I'm Jarrell.</h1>
 <h3 align="center">A Freelancer and Software Engineer at 100Devs</h3>
 
 - 🔭 I’m currently working on **an CRUD app that will connect professors with TA's**
