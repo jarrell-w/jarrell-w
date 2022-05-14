@@ -1,3 +1,4 @@
+![banner photo](https://i.ibb.co/yQctZ9d/Black-White-Geometric-Graphic-Design-Profile.png)
 <h1 align="center">Hi 👋, I'm Jarrell.</h1>
 <h3 align="center">A Freelancer and Software Engineer at 100Devs</h3>
 
