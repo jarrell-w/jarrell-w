@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [TBD]
 
-- 💬 Ask me about **Javascript, CSS, and React!**
+- 💬 Ask me about **Javascript, CSS, and Bootstrap!**
 
 - 📫 How to reach me **jarrellwdev@gmail.com**
 
