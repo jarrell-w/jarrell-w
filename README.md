@@ -1,6 +1,5 @@
-![banner photo](https://i.ibb.co/yQctZ9d/Black-White-Geometric-Graphic-Design-Profile.png)
 <h1 align="center">Hi 👋, I'm Jarrell.</h1>
-<h3 align="center">A Freelancer and Software Engineer at 100Devs</h3>
+
 
 - 🔭 I’m currently working on **an CRUD app that will connect professors with TA's**
 
@@ -9,8 +8,6 @@
 - 👯 I’m looking to collaborate on **any projects!**
 
 - 👨‍💻 Some of my projects are available at https://jarrellw.netlify.app/
-
-- 📝 I regularly write articles on [TBD]
 
 - 💬 Ask me about **Javascript, CSS, and Bootstrap!**
 
