@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jarrell.</h1>
 
-
-- 🔭 I’m currently working on **an CRUD app that will connect professors with TA's**
-
 - 🌱 I’m currently learning **Node.js and tailwind**
 
 - 👯 I’m looking to collaborate on **any projects!**
 
 - 👨‍💻 Some of my projects are available at https://jarrellw.netlify.app/
 
-- 💬 Ask me about **Javascript, CSS, and Bootstrap!**
-
 - 📫 How to reach me **jarrellwdev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jarrellswitherspoon/](https://www.linkedin.com/in/jarrellswitherspoon/)
-
-- ⚡ Fun fact **I'm also interested in Cybersecurity, and Web3!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
